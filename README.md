@@ -6,11 +6,9 @@
 
 ## List of Concepts:
 
-#### 1.  Variables
-    1a. Escape Sequence
-    1b. Escape Sequence as Normal Text
+#### 1.  Variables - Escape Sequence & Escape Sequence as Normal Text
 #### 2.  Data Types
-####3.  Operators 
+#### 3.  Operators 
 #### 4.  Conditional Statements 
 #### 5.  Looping Constructs(For, While, nested loop, Break, Continue, Pass) 
 #### 6.  Lists
