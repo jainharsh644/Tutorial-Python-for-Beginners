@@ -23,3 +23,10 @@
 #### 13. Recursion
 #### 14. Modules, Packages, and Standard Libraries
 #### 15. Handling Text Files in Python
+
+
+### Link To the YouTube Channels to learn python:  
+
+#### [IN HINDI](https://www.youtube.com/watch?v=gfDE2a7MKjA)
+#### [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) 
+
