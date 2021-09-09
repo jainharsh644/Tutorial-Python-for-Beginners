@@ -25,5 +25,5 @@
 #### 15. Handling Text Files in Python
 
 ___
-### Link To the YouTube Channels to learn python:  [In Hindi](https://www.youtube.com/watch?v=gfDE2a7MKjA) [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) 
+### Link To the YouTube Channels to learn python:  [In Hindi](https://www.youtube.com/watch?v=gfDE2a7MKjA) / [Telusko](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) 
 
